@@ -105,7 +105,7 @@ function App() {
 
         {/* Resume Button */}
         <a
-          href="/resume.pdf"
+          href="/SIST-BE-CSE-42110045-Akash Antony J.pdf"
           download
           className="inline-block bg-blue-600 dark:bg-yellow-400 text-white dark:text-gray-900 px-10 py-3 rounded-full font-semibold shadow-xl hover:bg-blue-700 dark:hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-blue-400 dark:focus:ring-yellow-300 transition"
         >
